@@ -1,6 +1,6 @@
 <div align="center">
 
-# M. M. Tamim Uz Zaman
+# M. M Tamim Uz Zaman
 
 Computer Science & Engineering Undergraduate  
 Intelligent Systems & Data Science • East West University
