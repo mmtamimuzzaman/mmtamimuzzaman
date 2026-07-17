@@ -7,7 +7,6 @@ Intelligent Systems & Data Science • East West University
 
 [![Email](https://img.shields.io/badge/Email-Contact-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:mmtamimuzzaman@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-333333?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamim-uz-zaman/)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-333333?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mmtamimuzzaman17112003/)
 [![GitHub](https://img.shields.io/badge/GitHub-0x0Tamim-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/0x0Tamim)
 
 </div>
@@ -18,7 +17,7 @@ Intelligent Systems & Data Science • East West University
 
 I am a Computer Science & Engineering undergraduate at East West University, specializing in Intelligent Systems & Data Science.
 
-My interests lie at the intersection of software engineering, backend systems, artificial intelligence, and data-driven applications. This profile serves as a collection of academic work, personal projects, and ongoing explorations in computer science.
+My interests include software engineering, backend systems, artificial intelligence, machine learning, and data-driven applications. This profile contains academic work, personal projects, and technical explorations across these domains.
 
 ---
 
@@ -45,12 +44,17 @@ My interests lie at the intersection of software engineering, backend systems, a
 ### Backend & APIs
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=flat-square&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-333333?style=flat-square&logo=fastapi&logoColor=white)
+![REST_API](https://img.shields.io/badge/REST_API-333333?style=flat-square)
 
 ### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-333333?style=flat-square&logo=mysql&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-333333?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white)
 
 ### Computer Science
 
@@ -62,22 +66,8 @@ Data Structures & Algorithms • Object-Oriented Programming • Operating Syste
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=0x0Tamim&show_icons=true&hide_border=true&rank_icon=github" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=0x0Tamim&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x0Tamim&layout=compact&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x0Tamim&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
-
----
-
-## Featured Work
-
-Selected projects and repositories are pinned below.
-
----
-
-## Connect
-
-- Email: **mmtamimuzzaman@gmail.com**
-- LinkedIn: **linkedin.com/in/tamim-uz-zaman**
-- GitHub: **github.com/0x0Tamim**
