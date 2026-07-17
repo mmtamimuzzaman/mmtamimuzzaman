@@ -62,12 +62,4 @@ Data Structures & Algorithms • Object-Oriented Programming • Operating Syste
 
 ---
 
-## GitHub Statistics
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=0x0Tamim&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x0Tamim&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
