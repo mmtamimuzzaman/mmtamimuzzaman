@@ -68,8 +68,9 @@ Data Structures & Algorithms • Object-Oriented Programming • Operating Syste
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=0x0Tamim&theme=merko&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=0x0Tamim&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
+
 
 
