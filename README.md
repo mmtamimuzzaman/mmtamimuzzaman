@@ -7,7 +7,7 @@ Intelligent Systems & Data Science • East West University
 
 [![Email](https://img.shields.io/badge/Email-Contact-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:mmtamimuzzaman@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-333333?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamim-uz-zaman/)
-[![GitHub](https://img.shields.io/badge/GitHub-0x0Tamim-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/0x0Tamim)
+[![GitHub](https://img.shields.io/badge/GitHub-0x0Tamim-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/mmtamimuzzaman)
 
 </div>
 
